@@ -1,0 +1,3 @@
+@SaveTo
+public class FileName {
+}
